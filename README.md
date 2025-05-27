@@ -1,6 +1,6 @@
 # A Multi-Parameter Water Quality Monitoring System Using 8086 Microcontroller and ADC0808 
 
-![img](Group Project/Screenshot.png)
+![img](Project/Screenshot.png)
 
 ## System Architecture: 
 
